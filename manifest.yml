@@ -1,0 +1,11 @@
+---
+applications:
+- name: BootAppIn
+  health-check-type: none
+  path: \target\BootAppIn-1.0.war
+  
+#env:
+
+
+  
+    
